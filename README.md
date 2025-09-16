@@ -1,1 +1,8 @@
-# Tony-Walker
+## Hey 👋, This is Tony Walker
+[![Gmail Badge](https://img.shields.io/badge/-mrtonycwalker@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mrtonycwalker@gmail.com)](mailto:mrtonycwalker@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/anthonyxwalker/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/anthonyxwalker//)](https://www.linkedin.com/in/https://www.linkedin.com/in/anthonyxwalker//) [![Github Badge](https://img.shields.io/badge/-TonyinBIA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TonyinBIA/)](https://www.github.com/TonyinBIA/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=TonyinBIA/)](TonyinBIA/) <p align='left'>I love gaming, anime, and tech. I fell in love with HR and data and putting them together pursuing a career in HR tech. I have a 14 year old Yorkie named Elijah and I am from the Caribbean, specifically Jamaica </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1EghMSlbkcmyANqO2Um3EdA51ZMx3Mb4erDTDCePrFME/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=TonyinBIA alt=TonyinBIA /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TonyinBIA&show_icons=true&include_all_commits=true)](https://github.com/TonyinBIA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyinBIA&layout=compact)](https://github.com/TonyinBIA/github-readme-stats)
